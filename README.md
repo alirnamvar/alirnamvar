@@ -22,10 +22,10 @@ My GitHub account information is as follows:
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ahmadsalimi&show_icons=True"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=alirnamvar&show_icons=True"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsalimi&layout=compact&langs_count=10"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirnamvar&layout=compact&langs_count=10"/>
         </td>
     </tr>
 </table>
