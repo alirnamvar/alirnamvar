@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey this is Alireza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+My GitHub account information is as follows:
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ahmadsalimi&show_icons=True"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsalimi&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
