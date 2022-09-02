@@ -23,7 +23,7 @@ My GitHub account information is as follows:
             <img src="https://github-readme-stats.vercel.app/api?username=alirnamvar&show_icons=True"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirnamvar&layout=compact&langs_count=10"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirnamvar&layout=compact&langs_count=6"/>
         </td>
     </tr>
 </table>
